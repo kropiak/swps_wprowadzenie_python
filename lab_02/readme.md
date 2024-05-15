@@ -257,7 +257,7 @@ print("\U0001F602")
 
 **Zadania**
 
-1. Napisz fragment kodu, który wczyta trzy zmienne z klawiatury:
+1. Napisz fragment kodu, który wczyta trzy zmienne ze standardowego wejścia (np. funkcja input()):
    * linię danych rozdzielonych jakimś separatorem (spacja, średnik, itd.)
    * separator źródłowy
    * separator docelowy  
