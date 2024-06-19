@@ -4,7 +4,7 @@
 
 ### **1. Wybrane funkcje wbudowane.**
 
-Lista wszystkich funkcji wbudowanych znajduje się pod adresem: https://docs.python.org/3.10/library/functions.html
+Lista wszystkich funkcji wbudowanych znajduje się pod adresem: https://docs.python.org/3.11/library/functions.html
 
 #### **1.1 Funkcja `zip`.**
 
